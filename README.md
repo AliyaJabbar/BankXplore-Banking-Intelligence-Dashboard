@@ -44,8 +44,18 @@ The dataset `bankingdataset.csv` contains:
 
 ## 📷 Screenshots  
 
-![App Screenshot](https://raw.githubusercontent.com/AliyaJabbar/
+**Home**
 
+![App Screenshot](https://github.com/AliyaJabbar/BankXplore-Banking-Intelligence-Dashboard/blob/main/BankingDashpage1.PNG)
+
+**Loan Analysis**
+
+![App Screenshot](https://github.com/AliyaJabbar/BankXplore-Banking-Intelligence-Dashboard/blob/main/Bankingdashbordpage2.PNG)
+
+**Deposit Analysis** 
+![App Screenshot](https://github.com/AliyaJabbar/BankXplore-Banking-Intelligence-Dashboard/blob/main/BankingdashboardDeposit.PNG)
+**Summary**
+![App Screenshot](https://github.com/AliyaJabbar/BankXplore-Banking-Intelligence-Dashboard/blob/main/Bankdashboard%20Summary.PNG)
 
 ---
 
