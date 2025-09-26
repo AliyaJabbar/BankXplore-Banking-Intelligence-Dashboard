@@ -42,6 +42,23 @@ The dataset `bankingdataset.csv` contains:
 
 ---
 
+## 📷 Screenshots  
+
+![App Screenshot](https://raw.githubusercontent.com/AliyaJabbar/
+
+
+---
+
+## 📂 Project Structure  
+
+```
+
+📦 Banking-Dashboard
+┣ 📜 bankingdataset.csv
+┣ 📜 BankingDashboard.pbix
+┣ 📜 data_cleaning.py
+┣ 📜 README.md
+
 ## 📊 Dashboard Pages  
 
 <details>
@@ -113,21 +130,6 @@ The dataset `bankingdataset.csv` contains:
 
 ---
 
-## 📷 Screenshots  
-
-> *(Add visuals of each dashboard page here for better presentation)*  
-
----
-
-## 📂 Project Structure  
-
-```
-
-📦 Banking-Dashboard
-┣ 📜 bankingdataset.csv
-┣ 📜 BankingDashboard.pbix
-┣ 📜 data_cleaning.py
-┣ 📜 README.md
 
 ```
 
